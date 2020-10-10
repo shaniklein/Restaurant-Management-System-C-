@@ -10,12 +10,12 @@ memory leaks.
 ### Assignment	Definition
 In this assignment I wrote a C++ program that simulates a restaurant management
 system. The program will open the restaurant, assign customers to tables, make orders,
-provide bills to the tables, and other requests as described in the file [a link](https://github.com/user/repo/blob/branch/other_file.md)
+provide bills to the tables, and other requests as described in the file [Assigment Specification](https://github.com/shaniklein/SPL191-assignment1/blob/main/Assignment%20Specifications.pdf)
 .
 
 The program will get a config file as an input, which includes all required information about the
 restaurant opening - number of tables, number of available seats in each table, and details
-about the dishes in the menu. The format of the input file is further described in part 3.5. in the specification file. 
+about the dishes in the menu. The format of the input file is further described in part 3.5. in the  [Assigment Specification](https://github.com/shaniklein/SPL191-assignment1/blob/main/Assignment%20Specifications.pdf) file. 
 
 There are 4 types of customers in this restaurant, each customer type has its own way of
 ordering from the menu (an ordering strategy). An order may be taken from a table more than
