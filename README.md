@@ -28,3 +28,5 @@ than the number of seats available in a table. In this restaurant, it’s imposs
 customers to an open table, but it’s possible to move customers from one table to another.
 A bill of a table is the total price of all dishes ordered for that table 
 
+### How to run
+You can find examples to configuration files to the restaurant and input output examples in [Input Output samples](https://github.com/shaniklein/SPL191-assignment1/tree/main/input%20output%20samples)
