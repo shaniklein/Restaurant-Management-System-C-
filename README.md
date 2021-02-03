@@ -1,5 +1,8 @@
-# SPL191-assignment1
-My solution for assigmnet 1 in Systems Programming Course BGU University
+# Restaurant Management System 
+In this assignment I wrote a C++ program that simulates a restaurant management
+system , the project was part of my solution for assigmnet 1 in Systems Programming Course BGU University (SPL191)
+more detail on the assignment below.
+
 
 ### Assignment	Goals
 The objective of this assignment is to design an object-oriented system and gain
